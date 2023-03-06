@@ -1,0 +1,30 @@
+[
+  {
+    "id": "57a78943-5c18-4bc6-a142-29e6bfcb1084",
+    "role": "User121"
+  },
+  {
+    "id": "fe6498e2-bc2e-487c-996e-9bb26a3bd426",
+    "role": "Admin",
+    "name": "jhfdan",
+    "address": "Pune"
+  },
+  {
+    "id": "2b168bae-31f5-4f6c-9a98-82b4919b7b5f",
+    "role": "Admin",
+    "name": "jhfdasefgsn",
+    "address": "Pune"
+  },
+  {
+    "id": "0d00c0ad-971c-40ac-a6b8-7cca52a61ba3",
+    "role": "Admin",
+    "name": "grtn",
+    "address": "Pune"
+  },
+  {
+    "id": "2b168bae-31f5-4f6c-9a98-82b4919b7b5f",
+    "role": "Admin",
+    "name": "jhfdasefgsn",
+    "address": "Pune"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "graphql-user-management-system",
+  "version": "1.0.0",
+  "description": "Crud on User and Admin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y0gesh9421/GraphQl-User-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y0gesh9421/GraphQl-User-Management-System/issues"
+  },
+  "homepage": "https://github.com/Y0gesh9421/GraphQl-User-Management-System#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.0",
+    "notarealdb": "^0.2.2",
+    "uuid": "^3.3.2"
+  }
+}
